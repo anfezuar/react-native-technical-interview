@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>4732B4BA-3E7E-4FF2-BF59-CCEC5EEBA4FC</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4732B4BA-3E7E-4FF2-BF59-CCEC5EEBA4FC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>wolox project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>wolox</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project wolox with scheme wolox and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>625717217.27966797</real>
+			<key>timeStoppedRecording</key>
+			<real>625717221.15107596</real>
+			<key>title</key>
+			<string>Building project wolox with scheme wolox and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>4732B4BA-3E7E-4FF2-BF59-CCEC5EEBA4FC</string>
+		</dict>
+		<key>979A3813-2825-43F0-9A82-FEDA078901C0</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>979A3813-2825-43F0-9A82-FEDA078901C0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>wolox project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>wolox</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project wolox with scheme wolox and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>625717111.47606802</real>
+			<key>timeStoppedRecording</key>
+			<real>625717114.49459302</real>
+			<key>title</key>
+			<string>Building project wolox with scheme wolox and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>979A3813-2825-43F0-9A82-FEDA078901C0</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

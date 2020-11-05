@@ -1,0 +1,10 @@
+dependencies: \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Base/RCTPlatform.m \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Base/RCTPlatform.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Base/RCTVersion.h

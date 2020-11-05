@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Views/RCTModalHostViewManager.m \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Views/RCTModalHostViewManager.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Views/RCTModalHostView.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Views/RCTView.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Views/RCTModalHostViewController.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Views/RCTModalManager.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Modules/RCTEventEmitter.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Views/RCTLayout.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/React/Base/RCTRootView.h

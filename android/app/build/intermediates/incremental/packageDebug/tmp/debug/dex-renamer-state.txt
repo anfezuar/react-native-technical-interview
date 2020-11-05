@@ -1,0 +1,4 @@
+#Wed Nov 04 21:32:09 COT 2020
+base.0=/Users/felipe/Desktop/repos/react-native-technical-interview/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,5 +1,86 @@
 {
-  "sign_in": [],
+  "sign_in": [
+    {
+      "nombre": "Andrés",
+      "apellido": "Zuluaga",
+      "correo": "Anfezuar@gmail.com",
+      "edad": "15",
+      "acepta": true,
+      "id": 1
+    },
+    {
+      "nombre": "Pipe",
+      "apellido": "Arias",
+      "correo": "Pipe@gmail.com",
+      "edad": "15",
+      "acepta": true,
+      "id": 2
+    },
+    {
+      "nombre": "Andres",
+      "apellido": "Zuluaga",
+      "correo": "A@a.com",
+      "edad": "15",
+      "acepta": true,
+      "id": 3
+    },
+    {
+      "nombre": "A",
+      "apellido": "A",
+      "correo": "A@a.com",
+      "edad": "19",
+      "acepta": true,
+      "id": 4
+    },
+    {
+      "nombre": "Andres",
+      "apellido": "Zuluaga",
+      "correo": "Anfezuar@gmail.com",
+      "edad": "24",
+      "acepta": true,
+      "id": 5
+    },
+    {
+      "nombre": "Andres",
+      "apellido": "Zuluaga",
+      "correo": "Anfezuar@gmail.com",
+      "edad": ">30",
+      "acepta": true,
+      "id": 6
+    },
+    {
+      "nombre": "Pipe",
+      "apellido": "Zuluaga",
+      "correo": "Pipe@gmail.com",
+      "edad": "22",
+      "acepta": true,
+      "id": 7
+    },
+    {
+      "nombre": "Andres",
+      "apellido": "Zuluaga",
+      "correo": "Anfezuar@gmail.com",
+      "edad": "25",
+      "acepta": true,
+      "id": 8
+    },
+    {
+      "nombre": "Andres",
+      "apellido": "Zuluaga",
+      "correo": "Anfezuar27_08@hotmail.com",
+      "edad": "20",
+      "acepta": true,
+      "id": 9
+    },
+    {
+      "nombre": "Andres ",
+      "apellido": "Zuluaga ",
+      "correo": "Anfezuar27_08@hotmail.com",
+      "edad": ">30",
+      "acepta": true,
+      "id": 10
+    }
+  ],
   "books": [
     {
       "id": 1,
@@ -49,7 +130,7 @@
     {
       "id": 6,
       "author": "Paula Hawkins",
-      "title": "The Girl on the Train\n",
+      "title": "The Girl on the Train",
       "genre": "suspense",
       "publisher": "Riverhead Books",
       "year": "2015",

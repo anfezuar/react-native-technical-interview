@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/Libraries/Image/RCTImageEditingManager.m \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/Libraries/Image/RCTImageEditingManager.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/Libraries/Image/RCTImageLoader.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/ios/build/wolox/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/Libraries/Image/RCTImageStoreManager.h \
+  /Users/felipe/Desktop/repos/react-native-technical-interview/node_modules/react-native/Libraries/Image/RCTImageUtils.h
